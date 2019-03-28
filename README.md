@@ -2,29 +2,29 @@
 
 Dependências:
 -Python3
-
--virtual env
--pip install requests
--pip install feedparser
--pip install webdriver
--pip install googletrans (tradutor)
+<br>
+-virtual env <br>
+-pip install requests <br>
+-pip install feedparser <br>
+-pip install webdriver <br>
+-pip install googletrans (tradutor) <br>
 
 -Selenium geckodriver p/ Mozilla Firefox(auto-post):
 https://github.com/mozilla/geckodriver/releases
-Copiar caminho p/ o path no lugar indicado no arquivo fbpost.py / Fbpost.py
+Copiar caminho p/ o path no lugar indicado no arquivo fbpost.py / Fbpost.py <br>
 
-EXEMPLO DE USO (Ubuntu):
-P/ processar URLs em massa (listar links em arquivo .txt):
--python3 sm.py
+EXEMPLO DE USO (Ubuntu):<br>
+P/ processar URLs em massa (listar links em arquivo .txt):<br>
+-python3 sm.py <br>
 
-P/ rodar o FeedParser:
-python3 rssParse.py
+P/ rodar o FeedParser: <br>
+python3 rssParse.py <br>
 
 
 
-Em andamento:
-*inclusão de APIs de customização de links;
-*inclusão de feeds;
-*customização do módulo Selenium
-*Opções de tradução
+Em andamento:<br>
+*inclusão de APIs de customização de links;<br>
+*inclusão de feeds; <br>
+*customização do módulo Selenium <br>
+*Opções de tradução <br>
 
