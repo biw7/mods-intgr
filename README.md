@@ -15,10 +15,10 @@ Copiar caminho p/ o path no lugar indicado no arquivo fbpost.py / Fbpost.py <br>
 
 EXEMPLO DE USO (Ubuntu):<br>
 P/ processar URLs em massa (listar links em arquivo .txt):<br>
--python3 sm.py <br>
+>--python3 sm.py <br>
 
 P/ rodar o FeedParser: <br>
-python3 rssParse.py <br>
+>-python3 rssParse.py <br>
 
 
 
