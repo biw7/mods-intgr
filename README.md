@@ -22,7 +22,7 @@ P/ rodar o FeedParser: <br>
 
 
 
-Em andamento:<br>
+:<br>
 *inclusão de APIs de customização de links;<br>
 *inclusão de feeds; <br>
 *customização do módulo Selenium <br>
