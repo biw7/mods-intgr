@@ -22,9 +22,9 @@ P/ rodar o FeedParser: <br>
 
 
 
-:<br>
-*inclusão de APIs de customização de links;<br>
-*inclusão de feeds; <br>
-*customização do módulo Selenium <br>
+<br>
+*inclusão de APIs;<br>
+*inclusão de outros formatos.
+*customização do módulo via Selenium outro outra ferramenta  <br>
 *Opções de tradução <br>
 
